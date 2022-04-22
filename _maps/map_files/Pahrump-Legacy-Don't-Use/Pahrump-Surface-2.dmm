@@ -30763,7 +30763,7 @@
 "mlO" = (
 /obj/structure/ladder/unbreakable{
 	height = 2;
-	id = bigbunk
+	id = "bigbunk"
 	},
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/wasteland)
@@ -39071,7 +39071,7 @@
 "pFX" = (
 /obj/structure/ladder/unbreakable{
 	height = 2;
-	id = junglehome;
+	id = "junglehome";
 	name = "Damp Ladder"
 	},
 /turf/open/indestructible/ground/inside/mountain,
